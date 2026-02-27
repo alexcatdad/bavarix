@@ -34,7 +34,7 @@ Thumbs.db
 coverage/
 *.coverprofile
 
-# BMW data — PRG files are too large for LFS free tier
-# SP-Daten, SGDAT, translations are tracked via LFS
-data/ediabas/
+# BMW data — PRG files are too large for LFS free tier (807MB)
+# GRP files (3.6MB) are tracked via LFS, PRGs are gitignored
+data/ediabas/ecu/
 .claude/

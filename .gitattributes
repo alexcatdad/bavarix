@@ -12,3 +12,7 @@
 data/inpa/sgdat/*.ipo filter=lfs diff=lfs merge=lfs -text
 data/inpa/sgdat/*.IPO filter=lfs diff=lfs merge=lfs -text
 data/inpa/sgdat/*.H filter=lfs diff=lfs merge=lfs -text
+data/ediabas/grp/*.grp filter=lfs diff=lfs merge=lfs -text
+data/ediabas/grp/*.GRP filter=lfs diff=lfs merge=lfs -text
+data/nfs/sgdat/*.ipo filter=lfs diff=lfs merge=lfs -text
+data/nfs/sgdat/*.IPO filter=lfs diff=lfs merge=lfs -text
