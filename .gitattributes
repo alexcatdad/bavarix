@@ -1,0 +1,11 @@
+# LFS tracking for BMW data files (excluding PRG/GRP — gitignored due to size)
+*.ipo filter=lfs diff=lfs merge=lfs -text
+*.C[0-9]* filter=lfs diff=lfs merge=lfs -text
+*.000 filter=lfs diff=lfs merge=lfs -text
+*.K00 filter=lfs diff=lfs merge=lfs -text
+*.M00 filter=lfs diff=lfs merge=lfs -text
+*.ZUS filter=lfs diff=lfs merge=lfs -text
+*.H00 filter=lfs diff=lfs merge=lfs -text
+*.BAP filter=lfs diff=lfs merge=lfs -text
+*.DAT filter=lfs diff=lfs merge=lfs -text
+*.ASC filter=lfs diff=lfs merge=lfs -text
