@@ -37,3 +37,4 @@ coverage/
 # BMW data — PRG files are too large for LFS free tier
 # SP-Daten, SGDAT, translations are tracked via LFS
 data/ediabas/
+.claude/

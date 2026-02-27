@@ -33,7 +33,7 @@ Task 1 (scaffolding) ─── blocks all ───┐
 ### Wave 2 — Depends on Wave 0 (local PRG files required)
 - [x] Task 4: PRG file decryptor — `pkg/parser/prg/` (5/5 tests pass)
 - [x] Task 5: PRG job extractor — `pkg/parser/prg/` (9/9 tests pass, reverse-engineered binary format)
-- [ ] Task 10: Batch PRG extraction — `cmd/extract-prg/` (agent running)
+- [x] Task 10: Batch PRG extraction — `cmd/extract-prg/` (1191/1192 files, 74,277 jobs extracted)
 
 ## Agent Assignment Log
 
