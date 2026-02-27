@@ -31,9 +31,9 @@ Task 1 (scaffolding) ─── blocks all ───┐
 - [x] Task 11: CI pipeline — `.github/workflows/` (committed)
 
 ### Wave 2 — Depends on Wave 0 (local PRG files required)
-- [ ] Task 4: PRG file decryptor — `pkg/parser/prg/`
-- [ ] Task 5: PRG job extractor — `pkg/parser/prg/`
-- [ ] Task 10: Batch PRG extraction — `cmd/extract-prg/`
+- [x] Task 4: PRG file decryptor — `pkg/parser/prg/` (5/5 tests pass)
+- [x] Task 5: PRG job extractor — `pkg/parser/prg/` (9/9 tests pass, reverse-engineered binary format)
+- [ ] Task 10: Batch PRG extraction — `cmd/extract-prg/` (agent running)
 
 ## Agent Assignment Log
 
